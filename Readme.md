@@ -10,3 +10,4 @@
 |1|Red|
 |2|Green|
 |3|Blue|
+|0|Yellow|
